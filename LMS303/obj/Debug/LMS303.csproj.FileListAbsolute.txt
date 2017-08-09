@@ -1,0 +1,11 @@
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303.csprojResolveAssemblyReference.cache
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\Window1.baml
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\Window1.g.cs
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\App.g.cs
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303_MarkupCompile.cache
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303.g.resources
+G:\Voodoo\VS2010Projects\LMS303\LMS303\bin\Debug\LMS303.exe.config
+G:\Voodoo\VS2010Projects\LMS303\LMS303\bin\Debug\LMS303.exe
+G:\Voodoo\VS2010Projects\LMS303\LMS303\bin\Debug\LMS303.pdb
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303.exe
+G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303.pdb
