@@ -9,3 +9,14 @@ G:\Voodoo\VS2010Projects\LMS303\LMS303\bin\Debug\LMS303.exe
 G:\Voodoo\VS2010Projects\LMS303\LMS303\bin\Debug\LMS303.pdb
 G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303.exe
 G:\Voodoo\VS2010Projects\LMS303\LMS303\obj\Debug\LMS303.pdb
+E:\Work\Solar_proj\LMS303\LMS303\bin\Debug\LMS303.exe.config
+E:\Work\Solar_proj\LMS303\LMS303\bin\Debug\LMS303.exe
+E:\Work\Solar_proj\LMS303\LMS303\bin\Debug\LMS303.pdb
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\LMS303.csprojResolveAssemblyReference.cache
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\Window1.baml
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\Window1.g.cs
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\App.g.cs
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\LMS303_MarkupCompile.cache
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\LMS303.g.resources
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\LMS303.exe
+E:\Work\Solar_proj\LMS303\LMS303\obj\Debug\LMS303.pdb
